@@ -4,3 +4,4 @@ This uses a boosted multi-scale feature fusion method for polyp detection task. 
 This uses Gold-Yolo model for the boosted multi-scale feature fusion method - "https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO"
 data_source = "https://github.com/dashishi/LDPolypVideo-Benchmark"
 
+[Results](Results)
