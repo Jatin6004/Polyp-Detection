@@ -6,3 +6,4 @@ This uses Gold-Yolo model for the boosted multi-scale feature fusion method from
 [Data source](https://github.com/dashishi/LDPolypVideo-Benchmark)
 
 [Results](Results)
+![Polyp detection](https://github.com/user-attachments/assets/db86fbc1-cc35-4501-bc43-a8e401127804)
